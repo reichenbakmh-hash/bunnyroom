@@ -1,0 +1,7 @@
+name = "bunnyroom"
+compatibility_date = "2026-08-01"
+pages_build_output_dir = "dist"
+
+[vars]
+VITE_SUPABASE_URL = "https://bsxopywcpnihgxpczymk.supabase.co"
+VITE_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJzeG9weXdjcG5paGd4cGN6eW1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODY2MTE3MzIsImV4cCI6MjEwMjE4NzczMn0.KvyEOYGcaSOxyojlfMvEZ4XUvX-yCyD0yenRonOdgbA"
